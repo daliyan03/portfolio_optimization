@@ -45,7 +45,7 @@ Returns are based on historical data and may not reflect future performance.
 
 ## Screenshots
 
-  <img src="images/results.png" width="500"><br>
-  <img src="images/results2.png" width="500"><br>
-  <em>Example run </em>
-</div>
+<img src="Images/results.png" width="500"><br>
+<img src="Images/results2.png" width="500"><br>
+<em>Example run</em>
+
